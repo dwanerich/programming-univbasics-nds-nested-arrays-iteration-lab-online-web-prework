@@ -26,7 +26,7 @@ def total_even_pairs(src)
 total = 0
 src.each do |pair|
   if pair[0].even? && pair[1].even?
-    total += pair
+    total += pair[0] + pair[1]
   end
 end
   total
