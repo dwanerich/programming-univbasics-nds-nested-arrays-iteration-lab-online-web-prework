@@ -6,7 +6,7 @@ def join_ingredients(src)
     new_array << "I love #{ingredients[0]} and #{ingredients[1]} on my pizza"
   end
   
-  new-array
+  new_array
   
   # Given an Array of 2-element Arrays ( [ [food1, food2], [food3, # food4]....[foodN, foodM]]):
   #
