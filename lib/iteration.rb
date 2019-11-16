@@ -1,6 +1,8 @@
 def join_ingredients(src)
   
-  src
+  src.each do |ingredients|
+    p "I love #{ingredients[0]} and #{ingredients[1] on my pizza"
+  end
   
   
   
