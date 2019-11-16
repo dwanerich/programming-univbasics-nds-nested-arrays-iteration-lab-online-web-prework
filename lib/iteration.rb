@@ -17,7 +17,7 @@ def find_greater_pair(src)
   
   new_array = []
   src.each do |pair|
-    new_array << src.max
+    new_array << pair.max
   end
     new_array
 end
