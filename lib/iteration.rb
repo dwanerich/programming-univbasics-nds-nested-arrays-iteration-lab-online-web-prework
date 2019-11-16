@@ -23,7 +23,7 @@ end
 
 def total_even_pairs(src)
   
-
+344812
   
 end
 
