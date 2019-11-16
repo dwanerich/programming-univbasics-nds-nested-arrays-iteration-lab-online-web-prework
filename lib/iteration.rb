@@ -23,7 +23,10 @@ end
 
 def total_even_pairs(src)
   
-
+total = 0
+src.each do |pair|
+  p pair
+end
   
 end
 
